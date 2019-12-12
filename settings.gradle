@@ -1,0 +1,2 @@
+include ':recording-app', ':sensor-usecase', ':collecting-ui', ':core', ':core-ui', ':notification-usecase', ':storage-usecase', ':power-usecase', ':classifying-app', ':classifying-ui', ':classifying-usecase'
+rootProject.name='ml-androidplatform'

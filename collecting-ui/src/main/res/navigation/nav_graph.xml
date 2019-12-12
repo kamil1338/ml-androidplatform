@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/collectingGetStartedFragment">
+
+    <fragment
+        android:id="@+id/collectingGetStartedFragment"
+        android:name="com.github.kamil1338.recording_app.collecting_ui.get_started.CollectingGetStartedFragment"
+        android:label="CollectingGetStartedFragment" >
+        <action
+            android:id="@+id/action_collectingGetStartedFragment_to_prepareCollectingFragment"
+            app:destination="@id/prepareCollectingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/prepareCollectingFragment"
+        android:name="com.github.kamil1338.recording_app.collecting_ui.configure.ConfigCollectingFragment"
+        android:label="PrepareCollectingFragment" >
+        <action
+            android:id="@+id/action_prepareCollectingFragment_to_collectingFragment"/>
+    </fragment>
+</navigation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classifying-app/Activity-Classification-Android-classifying-app.iml" filepath="$PROJECT_DIR$/classifying-app/Activity-Classification-Android-classifying-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classifying-ui/Activity-Classification-Android-classifying-ui.iml" filepath="$PROJECT_DIR$/classifying-ui/Activity-Classification-Android-classifying-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classifying-usecase/Activity-Classification-Android-classifying-usecase.iml" filepath="$PROJECT_DIR$/classifying-usecase/Activity-Classification-Android-classifying-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collecting-ui/Activity-Classification-Android-collecting-ui.iml" filepath="$PROJECT_DIR$/collecting-ui/Activity-Classification-Android-collecting-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/Activity-Classification-Android-core.iml" filepath="$PROJECT_DIR$/core/Activity-Classification-Android-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-ui/Activity-Classification-Android-core-ui.iml" filepath="$PROJECT_DIR$/core-ui/Activity-Classification-Android-core-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-Classification-Android-ml-activity-recognition-app.iml" filepath="$PROJECT_DIR$/Activity-Classification-Android-ml-activity-recognition-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-usecase/Activity-Classification-Android-notification-usecase.iml" filepath="$PROJECT_DIR$/notification-usecase/Activity-Classification-Android-notification-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-usecase/Activity-Classification-Android-power-usecase.iml" filepath="$PROJECT_DIR$/power-usecase/Activity-Classification-Android-power-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recording-app/Activity-Classification-Android-recording-app.iml" filepath="$PROJECT_DIR$/recording-app/Activity-Classification-Android-recording-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor-usecase/Activity-Classification-Android-sensor-usecase.iml" filepath="$PROJECT_DIR$/sensor-usecase/Activity-Classification-Android-sensor-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-usecase/Activity-Classification-Android-storage-usecase.iml" filepath="$PROJECT_DIR$/storage-usecase/Activity-Classification-Android-storage-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classifying-app/classifying-app.iml" filepath="$PROJECT_DIR$/classifying-app/classifying-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classifying-ui/classifying-ui.iml" filepath="$PROJECT_DIR$/classifying-ui/classifying-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classifying-usecase/classifying-usecase.iml" filepath="$PROJECT_DIR$/classifying-usecase/classifying-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collecting-ui/collecting-ui.iml" filepath="$PROJECT_DIR$/collecting-ui/collecting-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-ui/core-ui.iml" filepath="$PROJECT_DIR$/core-ui/core-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml-androidplatform.iml" filepath="$PROJECT_DIR$/ml-androidplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-usecase/notification-usecase.iml" filepath="$PROJECT_DIR$/notification-usecase/notification-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-usecase/power-usecase.iml" filepath="$PROJECT_DIR$/power-usecase/power-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recording-app/recording-app.iml" filepath="$PROJECT_DIR$/recording-app/recording-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor-usecase/sensor-usecase.iml" filepath="$PROJECT_DIR$/sensor-usecase/sensor-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-usecase/storage-usecase.iml" filepath="$PROJECT_DIR$/storage-usecase/storage-usecase.iml" />
+    </modules>
+  </component>
+</project>
